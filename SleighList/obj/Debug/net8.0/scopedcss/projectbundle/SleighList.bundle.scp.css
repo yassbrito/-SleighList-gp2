@@ -1,3 +1,132 @@
+/* _content/SleighList/Views/Home/Index.cshtml.rz.scp.css */
+/******************* Fornmulário de Login *******************/
+.bk-login[b-acp5oohxnx] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100wh;
+  height: calc(100vh - 96px);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right top;
+
+  
+}
+/* Estilo para a imagem */
+.img[b-acp5oohxnx] {
+    width: 1500px;   /* Definindo a largura da imagem */
+    height: auto;   /* Mantém a proporção original */
+    display: block; /* Necessário para centralizar */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+    
+  }
+
+  
+ /* Estilo para o rodapé */
+.rodape[b-acp5oohxnx] {
+    width: 50%;           /* Faz o rodapé ocupar toda a largura disponível */
+    height: 60px;          /* Define uma altura mínima para o rodapé */
+    display: flex;         /* Usa o Flexbox */
+    justify-content: center;  /* Centraliza o conteúdo horizontalmente */
+    align-items: center;       /* Centraliza o conteúdo verticalmente */
+    background-color: #333;   /* Cor de fundo (ajuste conforme necessário) */
+    color: #fff;              /* Cor do texto (ajuste conforme necessário) */
+  }
+  
+
+.form-box[b-acp5oohxnx] {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* 
+  align-items: flex-start;
+  
+  width: 80vw;
+  height: 80vh;
+  padding: 20px;
+  max-width: 900px;
+  min-width: 320px;
+  max-height: 670px;
+  min-height: 400px;
+  background-color: transparent;
+  background-image: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.2)
+  );
+  backdrop-filter: blur(5px);
+  border-radius: 30px; */
+
+  width: 70%;
+  height: 70vh;
+  padding: 50px;
+  background-color: #ffffff90;
+  backdrop-filter: blur(10px);
+  border-radius: 35px;
+  box-shadow: 1px 2px 5px rgba(102, 255, 0, 0.3);
+  overflow: auto;
+}
+
+.form-box h1[b-acp5oohxnx] {
+  width: 100%;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.formulario .frm-label[b-acp5oohxnx] {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.formulario .frm-input[b-acp5oohxnx] {
+  height: 50px;
+  padding: 10px;
+  font-size: 18px;
+  color: rgba(0, 0, 0, .5);
+  border-radius: 10px;
+  outline: none;  
+  border: none;
+}
+
+
+.formulario .frm-input:first-of-type[b-acp5oohxnx] {
+  margin-bottom: 40px;
+}
+
+.formulario .esqueci-senha[b-acp5oohxnx] {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: right;
+  color: #26333D;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.formulario .btn-entrar[b-acp5oohxnx] {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+  text-transform: uppercase;
+  background-color: #3a0000;
+  border-radius: 10px;
+  transition: background-color .4s;
+  border: none;
+}
+
+.formulario .btn-entrar:hover[b-acp5oohxnx] {
+  background-color: #2fd6cb;
+  border: none;
+  color: black;
+
+}
 /* _content/SleighList/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
@@ -47,136 +176,3 @@ button.accept-policy[b-3qslldto7v] {
   white-space: nowrap;
   line-height: 60px;
 }
-/* _content/SleighList/Views/Telas/Index.cshtml.rz.scp.css */
-body[b-yjxkvz2e8l] {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-}
-
-header[b-yjxkvz2e8l] {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-}
-
-footer[b-yjxkvz2e8l] {
-    text-align: center;
-    background-color: #333;
-    color: white;
-    padding: 1rem;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-/* _content/SleighList/Views/Telas/ViewCadastro/Cadastrar.cshtml.rz.scp.css */
-/* _content/SleighList/Views/Telas/ViewEditar/Editar.cshtml.rz.scp.css */
-/* _content/SleighList/Views/Telas/ViewLogin/Login.cshtml.rz.scp.css */
-/******************* Fornmulário de Login *******************/
-.bk-login[b-2b54849nru] {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  
-    width: 100wh;
-    height: calc(100vh - 96px);
-  
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: right top;
-  }
-  
-  .form-box[b-2b54849nru] {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    /* 
-    align-items: flex-start;
-    
-    width: 80vw;
-    height: 80vh;
-    padding: 20px;
-    max-width: 900px;
-    min-width: 320px;
-    max-height: 670px;
-    min-height: 400px;
-    background-color: transparent;
-    background-image: linear-gradient(
-      to right bottom,
-      rgba(255, 255, 255, 0.8),
-      rgba(255, 255, 255, 0.2)
-    );
-    backdrop-filter: blur(5px);
-    border-radius: 30px; */
-  
-    width: 70%;
-    height: 70vh;
-    padding: 50px;
-    background-color: #ffffff90;
-    backdrop-filter: blur(10px);
-    border-radius: 35px;
-    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
-    overflow: auto;
-  }
-  
-  .form-box h1[b-2b54849nru] {
-    width: 100%;
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
-  }
-  
-  
-  .formulario .frm-label[b-2b54849nru] {
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-  .formulario .frm-input[b-2b54849nru] {
-    height: 50px;
-    padding: 10px;
-    font-size: 18px;
-    color: rgba(0, 0, 0, .5);
-    border-radius: 10px;
-    outline: none;  
-    border: none;
-  }
-  
-  
-  .formulario .frm-input:first-of-type[b-2b54849nru] {
-    margin-bottom: 40px;
-  }
-  
-  .formulario .esqueci-senha[b-2b54849nru] {
-    width: 100%;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    text-align: right;
-    color: #26333D;
-    font-size: 15px;
-    font-weight: 500;
-  }
-  
-  .formulario .btn-entrar[b-2b54849nru] {
-    width: 100%;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    cursor: pointer;
-    text-transform: uppercase;
-    background-color: #26333D;
-    border-radius: 10px;
-    transition: background-color .4s;
-    border: none;
-  }
-  
-  .formulario .btn-entrar:hover[b-2b54849nru] {
-    background-color: #2fd6cb;
-    border: none;
-    color: black;
-  
-  }
-  

@@ -1,6 +1,5 @@
-/* _content/SleighList/Views/Home/Index.cshtml.rz.scp.css */
 /******************* Fornmulário de Login *******************/
-.bk-login[b-acp5oohxnx] {
+.bk-login {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,7 +14,7 @@
   
 }
 /* Estilo para a imagem */
-.img[b-acp5oohxnx] {
+.img {
     width: 1500px;   /* Definindo a largura da imagem */
     height: auto;   /* Mantém a proporção original */
     display: block; /* Necessário para centralizar */
@@ -25,7 +24,7 @@
 
   
  /* Estilo para o rodapé */
-.rodape[b-acp5oohxnx] {
+.rodape {
     width: 50%;           /* Faz o rodapé ocupar toda a largura disponível */
     height: 60px;          /* Define uma altura mínima para o rodapé */
     display: flex;         /* Usa o Flexbox */
@@ -36,7 +35,7 @@
   }
   
 
-.form-box[b-acp5oohxnx] {
+.form-box {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -69,7 +68,7 @@
   overflow: auto;
 }
 
-.form-box h1[b-acp5oohxnx] {
+.form-box h1 {
   width: 100%;
   font-size: 30px;
   font-weight: bold;
@@ -77,11 +76,11 @@
 }
 
 
-.formulario .frm-label[b-acp5oohxnx] {
+.formulario .frm-label {
   font-weight: bold;
   margin-bottom: 10px;
 }
-.formulario .frm-input[b-acp5oohxnx] {
+.formulario .frm-input {
   height: 50px;
   padding: 10px;
   font-size: 18px;
@@ -92,11 +91,11 @@
 }
 
 
-.formulario .frm-input:first-of-type[b-acp5oohxnx] {
+.formulario .frm-input:first-of-type {
   margin-bottom: 40px;
 }
 
-.formulario .esqueci-senha[b-acp5oohxnx] {
+.formulario .esqueci-senha {
   width: 100%;
   margin-top: 10px;
   margin-bottom: 20px;
@@ -106,7 +105,7 @@
   font-weight: 500;
 }
 
-.formulario .btn-entrar[b-acp5oohxnx] {
+.formulario .btn-entrar {
   width: 100%;
   height: 50px;
   display: flex;
@@ -121,58 +120,9 @@
   border: none;
 }
 
-.formulario .btn-entrar:hover[b-acp5oohxnx] {
+.formulario .btn-entrar:hover {
   background-color: #2fd6cb;
   border: none;
   color: black;
 
-}
-/* _content/SleighList/Views/Shared/_Layout.cshtml.rz.scp.css */
-/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
-a.navbar-brand[b-3qslldto7v] {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
-}
-
-a[b-3qslldto7v] {
-  color: #0077cc;
-}
-
-.btn-primary[b-3qslldto7v] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
-}
-
-.nav-pills .nav-link.active[b-3qslldto7v], .nav-pills .show > .nav-link[b-3qslldto7v] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
-}
-
-.border-top[b-3qslldto7v] {
-  border-top: 1px solid #e5e5e5;
-}
-.border-bottom[b-3qslldto7v] {
-  border-bottom: 1px solid #e5e5e5;
-}
-
-.box-shadow[b-3qslldto7v] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
-}
-
-button.accept-policy[b-3qslldto7v] {
-  font-size: 1rem;
-  line-height: inherit;
-}
-
-.footer[b-3qslldto7v] {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px;
 }

@@ -17,51 +17,39 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SleighList
 build_property.RootNamespace = SleighList
-build_property.ProjectDir = C:\Users\43676443837\Desktop\-SleighList-gp2\-SleighList-gp2\SleighList\
+build_property.ProjectDir = C:\Users\50526653850\Desktop\ProjetoGrupo02\-SleighList-gp2\SleighList\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\43676443837\Desktop\-SleighList-gp2\-SleighList-gp2\SleighList
+build_property.MSBuildProjectDirectory = C:\Users\50526653850\Desktop\ProjetoGrupo02\-SleighList-gp2\SleighList
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/Home/Privacy.cshtml]
+[C:/Users/50526653850/Desktop/ProjetoGrupo02/-SleighList-gp2/SleighList/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/Shared/Error.cshtml]
+[C:/Users/50526653850/Desktop/ProjetoGrupo02/-SleighList-gp2/SleighList/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/50526653850/Desktop/ProjetoGrupo02/-SleighList-gp2/SleighList/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/_ViewImports.cshtml]
+[C:/Users/50526653850/Desktop/ProjetoGrupo02/-SleighList-gp2/SleighList/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/_ViewStart.cshtml]
+[C:/Users/50526653850/Desktop/ProjetoGrupo02/-SleighList-gp2/SleighList/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/Shared/_Layout.cshtml]
+[C:/Users/50526653850/Desktop/ProjetoGrupo02/-SleighList-gp2/SleighList/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-acp5oohxnx
+
+[C:/Users/50526653850/Desktop/ProjetoGrupo02/-SleighList-gp2/SleighList/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3qslldto7v
-
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/Telas/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsYXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-yjxkvz2e8l
-
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/Telas/ViewCadastro/Cadastrar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsYXNcVmlld0NhZGFzdHJvXENhZGFzdHJhci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-tlfphrt2fu
-
-[C:/Users/43676443837/Desktop/-SleighList-gp2/-SleighList-gp2/SleighList/Views/Telas/ViewEditar/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsYXNcVmlld0VkaXRhclxFZGl0YXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-929vl92r5i
