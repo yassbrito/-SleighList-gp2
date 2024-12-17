@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wNP0kY+kRlNRaL/K3XIqIvAN/I1m7nRmdZA68mLxTmU=",
+  "Hash": "/T+za/dsIKSTyPHC68vHw/v4yxb5VKwP3dNfLHgUtZ4=",
   "Source": "SleighList",
   "BasePath": "_content/SleighList",
   "Mode": "Default",
@@ -93,6 +93,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\50526653850\\Desktop\\ProjetoGrupo02\\-SleighList-gp2\\SleighList\\wwwroot\\Imagem\\footer.png",
+      "SourceId": "SleighList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\50526653850\\Desktop\\ProjetoGrupo02\\-SleighList-gp2\\SleighList\\wwwroot\\",
+      "BasePath": "_content/SleighList",
+      "RelativePath": "Imagem/footer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\footer.png"
+    },
+    {
       "Identity": "C:\\Users\\50526653850\\Desktop\\ProjetoGrupo02\\-SleighList-gp2\\SleighList\\wwwroot\\Imagem\\GatinhoBanner.png",
       "SourceId": "SleighList",
       "SourceType": "Discovered",
@@ -148,25 +167,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagem\\Logo.png"
-    },
-    {
-      "Identity": "C:\\Users\\50526653850\\Desktop\\ProjetoGrupo02\\-SleighList-gp2\\SleighList\\wwwroot\\Imagem\\Rodape.png",
-      "SourceId": "SleighList",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\50526653850\\Desktop\\ProjetoGrupo02\\-SleighList-gp2\\SleighList\\wwwroot\\",
-      "BasePath": "_content/SleighList",
-      "RelativePath": "Imagem/Rodape.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagem\\Rodape.png"
     },
     {
       "Identity": "C:\\Users\\50526653850\\Desktop\\ProjetoGrupo02\\-SleighList-gp2\\SleighList\\wwwroot\\js\\site.js",
